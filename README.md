@@ -20,7 +20,7 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/aniruddha salvankar" target="_blank" style="padding-right: 350px;">
+  <a href="https://www.linkedin.com/in/aniruddha-salvankar-193642264/" target="_blank" style="padding-right: 350px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://instagram.com/urstruly_aniruddha" target="_blank" style="padding-right: 350px;">
