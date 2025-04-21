@@ -21,13 +21,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/aniruddha-salvankar-193642264/" target="_blank" style="padding-right: 350px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50" />
+    <img src="https://github.com/user-attachments/assets/e17546c3-ae46-48dd-a0d9-482600d71e0b" alt="LinkedIn" width="50" height="50" />
   </a>
   <a href="https://instagram.com/urstruly_aniruddha" target="_blank" style="padding-right: 350px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50" />
+    <img src="https://github.com/user-attachments/assets/8ad0e091-100c-4f2d-a480-073bf72cf6a9" alt="Instagram" width="50" height="50" />
   </a>
-  <a href="https://www.leetcode.com/aniruddha_25" target="_blank" style="padding-right: 350px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50" height="50" />
+<a href="https://www.leetcode.com/aniruddha_25" target="_blank" style="padding-right: 350px;">
+    <img src="https://github.com/user-attachments/assets/c84af23e-02f5-4b0a-ad79-0cf55676a88c" alt="LeetCode" width="50" height="50" />
   </a>
 </p>
 
