@@ -3,12 +3,16 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at:  
+### 👨‍💻 This is My Portfolio:  
   [Portfolio Repository](https://github.com/Aniruddha-25/New-Portfolio-)
 
-- 📫 Reach me at:  
+### 📄 My Resume
+
+[Download My Resume]([docs/Aniruddha_Resume.pdf](https://1drv.ms/b/c/41587c6ca14a1f52/Ec38C7Jx3GNGgnSgTZh92h4BMUGSpLUyiKVbzQxTpOvicQ?e=MWdHMo))
+
+### 📫 Reach me at:  
   **aniruddha.salvankar2523@gmail.com**
 
 ---
