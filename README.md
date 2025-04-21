@@ -59,15 +59,18 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Design Tools</strong></td>
-    <td>
-      <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-      </a>
-    </td>
-  </tr>
   <tr>
-    <td><strong>Animation</strong></td>
+  <td><strong>Design Tools</strong></td>
+  <td>
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
+    </a>
+    <a href="https://solidedge.siemens.com/en/" target="_blank">
+       <img src="https://github.com/user-attachments/assets/3c2572d4-44af-45cb-b37d-cf32148248a1" alt="Solid Edge" width="50" height="50"/>
+    </a>
+  </td>
+</tr>
+<td><strong>Animation</strong></td>
     <td>
       <a href="https://gsap.com/" target="_blank">
         <img src="https://github.com/user-attachments/assets/59853cc1-971f-40a6-8fd3-dbec070f630a" alt="GSAP" width="50" height="50"/>
