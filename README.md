@@ -1,13 +1,13 @@
-<table align="center" style="width: 100%; padding: 20px; border-radius: 10%; border: none;">
+<table align="center" style="width: 100%; height: 100vh; padding: 40px; border-radius: 10%; border: none;">
   <tr>
-    <td style="text-align: left; width: 50%; vertical-align: middle; padding: 10px;">
-      <h1 style="font-size: 36px;">Hi I'm Aniruddha</h1>
-      <h3 style="font-size: 24px;">A passionate Software Developer</h3>
+    <td style="text-align: left; width: 50%; vertical-align: middle; padding: 20px;">
+      <h1 style="font-size: 100px;">Hi I'm Aniruddha</h1>
+      <h3 style="font-size: 76px;">A passionate Software Developer</h3>
     </td>
-    <td style="text-align: right; width: 50%; vertical-align: middle; padding: 10px;">
+    <td style="text-align: right; width: 50%; vertical-align: middle; padding: 20px;">
       <img src="https://github.com/user-attachments/assets/e9f0a00d-d263-4798-a0e4-1bed2a2af601"
            alt="Coding"
-           style="border-radius: 10%; width: 400px;">
+           style="border-radius: 10%; width: 600px;">
     </td>
   </tr>
 </table>
