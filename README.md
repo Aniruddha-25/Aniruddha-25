@@ -10,7 +10,9 @@
 
 ### 📄 My Resume
 
-[Download My Resume]([docs/Aniruddha_Resume.pdf](https://1drv.ms/b/c/41587c6ca14a1f52/Ec38C7Jx3GNGgnSgTZh92h4BMUGSpLUyiKVbzQxTpOvicQ?e=MWdHMo))
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue)](https://github.com/user-attachments/files/19829417/Resume.pdf)
+
+
 
 ### 📫 Reach me at:  
   **aniruddha.salvankar2523@gmail.com**
