@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 ### 👨‍💻 This is My Portfolio:  
-  [Portfolio Repository](https://github.com/Aniruddha-25/New-Portfolio-)
+  [Portfolio Repository](https://aniruddha-25.github.io/Responsive_Portfolio/)
 
 ### 📄 My Resume
 
