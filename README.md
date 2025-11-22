@@ -20,10 +20,6 @@
 ### 👨‍💻 This is My Portfolio:  
   [Portfolio Repository](https://aniruddha-25.github.io/Responsive_Portfolio/)
 
-### 📄 My Resume
-
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/files/20588723/Resume.pdf)
-
 
 ### 📫 Reach me at:  
   **aniruddha.salvankar2523@gmail.com**
