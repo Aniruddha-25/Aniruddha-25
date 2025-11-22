@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 ### 👨‍💻 This is My Portfolio:  
-  [Portfolio Repository](https://aniruddha-25.github.io/Responsive_Portfolio/)
+  [Click Here to Open the Portfolio](https://aniruddha-25.github.io/Responsive_Portfolio/)
 
 
 ### 📫 Reach me at:  
