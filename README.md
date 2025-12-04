@@ -33,11 +33,30 @@
 
 ### 🤝 Connect With Me
 
-<p align="left">
-  <img title="LinkedIn" src="https://github.com/user-attachments/assets/e17546c3-ae46-48dd-a0d9-482600d71e0b" width="50" height="50" style="margin-right:50px;">
-  <img title="Instagram" src="https://github.com/user-attachments/assets/8ad0e091-100c-4f2d-a480-073bf72cf6a9" width="50" height="50" style="margin-right:50px;">
-  <img title="LeetCode" src="https://github.com/user-attachments/assets/c84af23e-02f5-4b0a-ad79-0cf55676a88c" width="50" height="50">
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/aniruddha-salvankar-193642264/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/f3daa305-1ee2-46fa-a6a9-90a1ad6c4211" width="50">
+      </a><br>
+      <sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/urstruly_aniruddha" target="_blank">
+        <img src="https://github.com/user-attachments/assets/711de814-4afb-42d3-9584-c5360dbdb8b9" width="50">
+      </a><br>
+      <sub><b>Instagram</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/Aniruddha_25/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/dde2b301-2787-44e6-b403-43cc91278028" width="50">
+      </a><br>
+      <sub><b>LeetCode</b></sub>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -54,7 +73,7 @@
     <td><b>Languages</b></td>
     <td>
       <table><tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/15f5cb12-fb27-4e5a-bf30-3a58836289ae" width="65"><br>Python</td>
+        <td  align="center" ><img src="https://github.com/user-attachments/assets/15f5cb12-fb27-4e5a-bf30-3a58836289ae" width="65"><br>Python</td>
         <td align="center"><img src="https://github.com/user-attachments/assets/5a46629c-dec5-4803-a0e0-e4c68c748d4b" width="65"><br>Java</td>
         <td align="center"><img src="https://github.com/user-attachments/assets/dae3c14d-b685-4318-89fd-afce1f4cee77" width="65"><br>C</td>
         <td align="center"><img src="https://github.com/user-attachments/assets/f35254da-bcd6-4288-947e-6ff18dc96cf1" width="65"><br>C++</td>
