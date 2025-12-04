@@ -81,9 +81,9 @@
     <td><b>Front-End Developments</b></td>
     <td>
       <table><tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/6a0d843f-5305-4bd9-a2ef-4e43c2cbfb05" width="65"><br>HTML</td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/693fc645-5e19-4106-aac7-6fa44458e2b7" width="65"><br>CSS</td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/7d2d9c83-4973-410b-9b90-c90df5935687" width="65"><br>JavaScript</td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/6a0d843f-5305-4bd9-a2ef-4e43c2cbfb05" width="75"><br>HTML</td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/693fc645-5e19-4106-aac7-6fa44458e2b7" width="75"><br>CSS</td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/7d2d9c83-4973-410b-9b90-c90df5935687" width="75"><br>JavaScript</td>
       </tr></table>
     </td>
   </tr>
