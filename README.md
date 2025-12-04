@@ -54,10 +54,10 @@
     <td><b>Languages</b></td>
     <td>
       <table><tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/15f5cb12-fb27-4e5a-bf30-3a58836289ae" width="65"><br>Python</td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/5a46629c-dec5-4803-a0e0-e4c68c748d4b" width="65"><br>Java</td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/dae3c14d-b685-4318-89fd-afce1f4cee77" width="65"><br>C</td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/f35254da-bcd6-4288-947e-6ff18dc96cf1" width="65"><br>C++</td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/15f5cb12-fb27-4e5a-bf30-3a58836289ae" width="55"><br>Python</td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/5a46629c-dec5-4803-a0e0-e4c68c748d4b" width="55"><br>Java</td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/dae3c14d-b685-4318-89fd-afce1f4cee77" width="55"><br>C</td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/f35254da-bcd6-4288-947e-6ff18dc96cf1" width="55"><br>C++</td>
       </tr></table>
     </td>
   </tr>
