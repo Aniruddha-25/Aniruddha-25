@@ -37,21 +37,21 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/aniruddha-salvankar-193642264/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/f3daa305-1ee2-46fa-a6a9-90a1ad6c4211" width="50">
+        <img src="https://github.com/user-attachments/assets/f3daa305-1ee2-46fa-a6a9-90a1ad6c4211" width="75">
       </a><br>
-      <sub><b>LinkedIn</b></sub>
+      <span style="font-size:18px;"><b>LinkedIn</b></span>
     </td>
     <td align="center">
       <a href="https://www.instagram.com/urstruly_aniruddha" target="_blank">
-        <img src="https://github.com/user-attachments/assets/711de814-4afb-42d3-9584-c5360dbdb8b9" width="50">
+        <img src="https://github.com/user-attachments/assets/711de814-4afb-42d3-9584-c5360dbdb8b9" width="75">
       </a><br>
-      <sub><b>Instagram</b></sub>
+      <span style="font-size:18px;"><b>Instagram</b></span>
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/Aniruddha_25/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/dde2b301-2787-44e6-b403-43cc91278028" width="50">
+        <img src="https://github.com/user-attachments/assets/dde2b301-2787-44e6-b403-43cc91278028" width="75">
       </a><br>
-      <sub><b>LeetCode</b></sub>
+      <span style="font-size:18px;"><b>LeetCode</b></span>
     </td>
   </tr>
 </table>
