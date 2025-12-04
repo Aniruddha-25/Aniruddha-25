@@ -54,10 +54,10 @@
     <td><b>Languages</b></td>
     <td>
       <table><tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"><br>Python</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"><br>Java</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"><br>C</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"><br>C++</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"><br>Python</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"><br>Java</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55"><br>C</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55"><br>C++</td>
       </tr></table>
     </td>
   </tr>
@@ -67,11 +67,11 @@
     <td><b>Data & ML Tools</b></td>
     <td>
       <table><tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="55"><br>Sklearn</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"><br>Pandas</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"><br>NumPy</td>
-        <td><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55"><br>Matplotlib</td>
-        <td><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90"><br>Seaborn</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="55"><br>Sklearn</td>
+        <td><img align=center  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"><br>Pandas</td>
+        <td><img align=center  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"><br>NumPy</td>
+        <td><img align=center  src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="55"><br>Matplotlib</td>
+        <td><img align=center  src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90"><br>Seaborn</td>
       </tr></table>
     </td>
   </tr>
@@ -81,9 +81,9 @@
     <td><b>Web Tools</b></td>
     <td>
       <table><tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"><br>HTML</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"><br>CSS</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"><br>JavaScript</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55"><br>HTML</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"><br>CSS</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"><br>JavaScript</td>
       </tr></table>
     </td>
   </tr>
@@ -93,9 +93,9 @@
     <td><b>Databases</b></td>
     <td>
       <table><tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"><br>MySQL</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"><br>PostgreSQL</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"><br>MongoDB</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"><br>MySQL</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55"><br>PostgreSQL</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"><br>MongoDB</td>
       </tr></table>
     </td>
   </tr>
@@ -105,8 +105,8 @@
     <td><b>Frameworks</b></td>
     <td>
       <table><tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"><br>Flask</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"><br>Node.js</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55"><br>Flask</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"><br>Node.js</td>
       </tr></table>
     </td>
   </tr>
@@ -116,11 +116,11 @@
     <td><b>Developer Tools</b></td>
     <td>
       <table><tr>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"><br>Jupyter</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"><br>VS Code</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"><br>GitHub</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"><br>Figma</td>
-        <td><img src="https://i.imgur.com/Y5p101v.png" width="70"><br>Solid Edge</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55"><br>Jupyter</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"><br>VS Code</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"><br>GitHub</td>
+        <td><img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"><br>Figma</td>
+        <td><img align=center src="https://i.imgur.com/Y5p101v.png" width="70"><br>Solid Edge</td>
       </tr></table>
     </td>
   </tr>
