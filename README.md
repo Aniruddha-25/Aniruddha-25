@@ -24,7 +24,7 @@
 ## 🚀 About Me
 
 ### 👨‍💻 Portfolio  
-🔗 **[Click To View](https://aniruddha-25.github.io/Responsive_Portfolio/)**
+🔗 **[Click To View](https://aniruddha-25.github.io/portfolio/)**
 
 ### 📫 Contact  
 📩 **aniruddha.salvankar2523@gmail.com**
